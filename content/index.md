@@ -17,7 +17,7 @@ Tools used are Obsidian for editing content, Quartz for SSG, GitHub Pages for ho
 - [[Piano]]
 
 ## Info dump: (╯°□°）╯︵ 🧠
-- [[Research papers]]
+- [[Research Papers]]
 - [[Piano Repertoire]]
 - [[Disc Golf]]
 
