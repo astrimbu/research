@@ -15,7 +15,7 @@ const config: QuartzConfig = {
       provider: "plausible",
     },
     locale: "en-US",
-    baseUrl: "alan.computer/",
+    baseUrl: "alan.computer/research/",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "created",
     theme: {
