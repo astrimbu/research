@@ -1,5 +1,5 @@
 ---
-title: Large Language Models (LLMs)
+title: Large Language Models
 tags:
   - LLM
   - language
@@ -8,6 +8,7 @@ tags:
   - nlp
   - computer-science
 ---
+### LLMs
 Llama3, GPT-3, Claude, Sonnet, GPT-4o,
 
 ---

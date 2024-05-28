@@ -1,13 +1,12 @@
 ---
 title: Welcome
-tags:
-  - map
+tags: []
 ---
 Welcome to my notebook / second brain / digital garden / blog / wiki.
 
 My goal is to store a bunch of my knowledge / research here in markdown format.
 
-Tools used are Obsidian for editing content, Quartz for SSG, GitHub Pages for hosting.
+Tools used are [Obsidian](https://obsidian.md/) for editing content, [Quartz](https://quartz.jzhao.xyz/) for SSG, GitHub Pages for hosting.
 
 ## Focus areas: ✍️(◔◡◔)
 - [[Computer Science]]
@@ -21,14 +20,20 @@ Tools used are Obsidian for editing content, Quartz for SSG, GitHub Pages for ho
 - [[Piano Repertoire]]
 - [[Disc Golf]]
 
+Some random notes for maintaining this site:
+1. Avoid vague notes
+2. Avoid notes you won't use again
+3. 
+
 ---
 
 #TODO:
 - [x] Research papers
 - [x] Piano repertoire
 - [x] Welcome page with links to things
-- [x] Research systems of organization / linking notes with Quartz / Obsidian
+- [x] Research systems of organization / linking / tagging notes with Quartz / Obsidian
 - [x] Integrate systems of organization to existing notes
-- [ ] Host on GitHub Pages under [alan.computer/research](https://alan.computer/research)
-- [ ] Start empty pages
+- [x] Host on GitHub Pages under [alan.computer/research](https://alan.computer/research)
+- [x] Start empty pages
 - [ ] Research templates, daily notes?
+- [x] fix NLP/LLMs in explorer

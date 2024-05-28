@@ -1,5 +1,5 @@
 ---
-title: Natural Language Processing (NLP)
+title: Natural Language Processing
 tags:
   - nlp
   - language
