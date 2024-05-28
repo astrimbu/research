@@ -2,4 +2,4 @@
 
 Putting my notes and research here.
 
-Tools used are Obsidian for editing content, Quartz for SSG, GitHub Pages for hosting.
+Tools used are [Obsidian](https://obsidian.md/) for editing content, [Quartz](https://quartz.jzhao.xyz/) for SSG, GitHub Pages for hosting.
