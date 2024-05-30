@@ -1,7 +1,7 @@
 ---
 title: Disc Golf
-tags:
-  - disc-golf
+aliases:
+  - dg
 ---
 ### Terms
 hyzer, anhyzer, flight numbers, Innova, Discraft, MVP, Paul McBeth, Ricky Wysocki, Simon Lizotte, Eagle McMahon, James Conrad, Innova plastics, Innova molds,
@@ -9,6 +9,8 @@ hyzer, anhyzer, flight numbers, Innova, Discraft, MVP, Paul McBeth, Ricky Wysock
 ---
 
 #TODO:
-- [ ] Define terms
-- [ ] Expand
 - [ ] Disc inventory
+
+---
+
+tags: [[Disc Golf]] - [[Sport]]

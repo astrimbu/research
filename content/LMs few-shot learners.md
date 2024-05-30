@@ -1,9 +1,5 @@
 ---
 title: Language Models are Few-Shot Learners
-tags: 
-  - computer-science
-  - language
-  - 2020
 ---
 
 https://arxiv.org/pdf/2005.14165
@@ -43,3 +39,7 @@ The paper "Language Models are Few-Shot Learners" by Tom B. Brown et al. introdu
 GPT-3's ability to perform a wide range of tasks with minimal task-specific training demonstrates the potential of scaling up language models for achieving better generalization and versatility. Its performance in few-shot learning settings highlights significant advancements in NLP, though there are still areas for improvement and ethical considerations to address.
 
 For more details, you can access the full paper [here](https://arxiv.org/pdf/2005.14165.pdf).
+
+---
+
+tags: [[Computer Science]] - [[Research Paper]] - [[Language]]

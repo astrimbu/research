@@ -1,7 +1,5 @@
 ---
 title: Piano repertoire
-tags:
-  - piano
 ---
 - Beethoven Sonata op.13 no.8 _"Pathétique"_
 - Rachmaninoff Prelude op.3 no.2
@@ -23,4 +21,8 @@ tags:
 #TODO:
 - [ ] Links to YouTube performances
 - [ ] Sheet music pdf if possible
-- [ ] Each piece as individual note under Piano Repertoire folder
+- [ ] Each piece as individual note
+
+---
+
+tags: [[Piano]]

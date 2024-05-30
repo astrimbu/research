@@ -1,9 +1,6 @@
 ---
 title: LLM-Pruner On the Structural Pruning of Large Language Models
-tags: 
-  - computer-science
-  - language
-  - 2023
+aliases: []
 ---
 
 https://arxiv.org/pdf/2305.11627.pdf
@@ -35,3 +32,7 @@ The paper "LLM-Pruner: On the Structural Pruning of Large Language Models" intro
 LLM-Pruner presents a significant advancement in the compression of large language models. By focusing on structural pruning and minimizing reliance on the original training data, it offers a practical and efficient solution for reducing the size of LLMs while preserving their diverse capabilities. This approach not only makes LLM deployment more feasible but also opens up new possibilities for using these models in resource-constrained environments.
 
 For more details, you can access the full paper [here](https://arxiv.org/pdf/2305.11627.pdf).
+
+---
+
+tags: [[Computer Science]] - [[Research Paper]] - [[Language]]

@@ -1,14 +1,10 @@
 ---
 title: NeRF Representing Scenes as Neural Radiance Fields for View Synthesis
-tags: 
-  - computer-science
-  - computer-vision
-  - 2020
+aliases:
+  - Neural Radiance Field
 ---
 
 https://arxiv.org/abs/2003.08934
-
-### Summary of "NeRF: Representing Scenes as Neural Radiance Fields for View Synthesis"
 
 The paper "NeRF: Representing Scenes as Neural Radiance Fields for View Synthesis" introduces a novel approach to synthesizing novel views of complex 3D scenes using neural networks. The key contribution is the representation of a scene as a continuous 5D function that outputs the color and volume density at any given point in space and viewing direction. This 5D function, referred to as a Neural Radiance Field (NeRF), is optimized using a sparse set of input images of the scene along with their corresponding camera poses.
 
@@ -37,3 +33,7 @@ The NeRF approach demonstrates state-of-the-art performance in synthesizing high
 - **Film and Media Production**: Enabling high-quality visual effects and scene reconstructions.
 
 In conclusion, the paper presents NeRF as a breakthrough in scene representation and view synthesis, showcasing the potential of neural networks to model and render complex 3D environments with impressive accuracy and detail.
+
+---
+
+tags: [[Computer Science]] - [[Research Paper]] - [[AI Art]]

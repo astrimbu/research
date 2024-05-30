@@ -1,16 +1,12 @@
 ---
 title: Natural Language Processing
-tags:
-  - nlp
-  - language
-  - machine-learning
-  - computer-science
+aliases:
+  - Natural Language Processing
 ---
 ### Terms
 tokenization, corpus, encoder, decoder,
 
+
 ---
 
-#TODO:
-- [ ] Add terms
-- [ ] Define terms
+tags: [[Computer Science]] - [[Language]]

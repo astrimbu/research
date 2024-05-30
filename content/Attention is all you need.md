@@ -1,9 +1,5 @@
 ---
 title: Attention Is All You Need
-tags:
-  - computer-science
-  - machine-learning
-  - LLM
 ---
 
 https://arxiv.org/pdf/1706.03762.pdf
@@ -40,3 +36,7 @@ The paper "Attention Is All You Need" by Ashish Vaswani et al. introduces a new 
 The introduction of the Transformer model marks a significant advancement in sequence transduction models by utilizing attention mechanisms alone. This approach not only improves performance but also enhances training efficiency, paving the way for further innovations in natural language processing and beyond.
 
 For more details, you can access the full paper [here](https://arxiv.org/pdf/1706.03762.pdf).
+
+---
+
+tags: [[Computer Science]] - [[Research Paper]] - [[Machine Learning]] - [[Transformer]]
