@@ -1,8 +1,12 @@
 ---
 title: The Era of 1-bit LLMs All Large Language Models are in 1.58 Bits
+aliases:
+  - The Era of 1-bit LLMs All Large Language Models are in 1.58 Bits
+tags:
+  - 🖥️
 ---
 
-https://arxiv.org/pdf/2402.17764
+https://arxiv.org/abs/2402.17764
 
 The paper titled "The Era of 1-bit LLMs: All Large Language Models are in 1.58 Bits" introduces a 1-bit variant of large language models (LLMs) called BitNet b1.58. The key innovation of this model is that each parameter (or weight) is represented in a ternary format {-1, 0, 1}, which significantly reduces the model's memory and computational requirements while maintaining performance comparable to full-precision models.
 
@@ -23,8 +27,8 @@ The paper titled "The Era of 1-bit LLMs: All Large Language Models are in 1.58 B
 ### Conclusion:
 The introduction of BitNet b1.58 marks a significant step forward in the efficiency of large language models. By utilizing a 1-bit representation for model parameters, it achieves a balance between performance and resource efficiency, paving the way for more scalable and accessible LLMs.
 
-For more details, you can access the full paper [here](https://arxiv.org/pdf/2402.17764).
+For more details, you can access the full paper [here](https://arxiv.org/abs/2402.17764).
 
 ---
 
-tags: [[Computer Science]] - [[Research Paper]] - [[Language]]
+tags: [[Computer Science]] - [[Research]] - [[Language]]

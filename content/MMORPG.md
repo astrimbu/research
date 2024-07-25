@@ -12,4 +12,4 @@ Game
 
 ---
 
-tags: [[Video Game]]
+tags: [[Video game]]

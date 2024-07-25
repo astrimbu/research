@@ -1,8 +1,16 @@
 ---
 title: Computer Science
-aliases:
-  - cs
-  - compsci
+aliases: []
+tags:
+  - 🗺️
 ---
-### Terms
-neural network, deep neural network, transformer, attention, AI, machine learning, context window, 
+
+- [[AI]]
+- [[LLM]]
+- [[ML]]
+- [[NLP]]
+- [[Research]]
+- [[Web Development]]
+
+ - [[Discrete mathematics]]
+ - [[Video game]]

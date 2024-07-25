@@ -1,8 +1,12 @@
 ---
 title: Language Models are General-Purpose Interfaces
+aliases:
+  - Language Models are General-Purpose Interfaces
+tags:
+  - 🖥️
 ---
 
-https://arxiv.org/pdf/2206.06336
+https://arxiv.org/abs/2206.06336
 
 The paper "Language Models are General-Purpose Interfaces" by Yifan Hao, Hanwen Song, Li Dong, Shuming Huang, and Zhifang Chi proposes a framework for using language models as interfaces to various foundation models. The key idea is to use a language model to interact with pretrained encoders that handle different modalities, such as vision and language. This approach aims to create a versatile system capable of performing a wide range of tasks by leveraging the strengths of specialized foundation models.
 
@@ -31,8 +35,8 @@ The paper "Language Models are General-Purpose Interfaces" by Yifan Hao, Hanwen 
 ### Conclusion:
 The paper introduces a novel approach to using language models as general-purpose interfaces, enabling seamless interaction with various foundation models across different modalities. This framework aims to enhance the versatility and accessibility of AI systems, allowing users to perform a wide range of tasks through natural language instructions.
 
-For more details, you can access the full paper [here](https://arxiv.org/pdf/2206.06336).
+For more details, you can access the full paper [here](https://arxiv.org/abs/2206.06336).
 
 ---
 
-tags: [[Computer Science]] - [[Research Paper]] - [[Language]]
+tags: [[Computer Science]] - [[Research]] - [[Language]]

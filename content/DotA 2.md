@@ -8,4 +8,4 @@ aliases:
 
 ---
 
-tags: [[Video Game]] - [[MoBA]]
+tags: [[Video game]] - [[MoBA]]

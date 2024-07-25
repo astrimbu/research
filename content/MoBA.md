@@ -10,4 +10,4 @@ Arena
 
 ---
 
-tags: [[Video Game]]
+tags: [[Video game]]

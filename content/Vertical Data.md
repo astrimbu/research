@@ -4,8 +4,8 @@ aliases:
   - VeDa
 ---
 
-
+Auto-Categorization and Retrieval Engine  
 
 ---
 
-tags: [[Computer Science]] - [[ACRE]] - [[Machine Learning]]
+tags: [[Computer Science]] - [[ML]]

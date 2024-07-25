@@ -1,8 +1,12 @@
 ---
 title: Language Models are Unsupervised Multitask Learners
+aliases:
+  - Language Models are Unsupervised Multitask Learners
+tags:
+  - 🖥️
 ---
 
-https://insightcivic.s3.us-east-1.amazonaws.com/language-models.pdf
+https://paperswithcode.com/paper/language-models-are-unsupervised-multitask
 
 The paper "Language Models are Unsupervised Multitask Learners" by Alec Radford et al. from OpenAI demonstrates that language models can perform various natural language processing (NLP) tasks without explicit supervision. The authors present GPT-2, a transformer-based language model trained on a dataset called WebText, which consists of millions of webpages.
 
@@ -38,8 +42,8 @@ The paper "Language Models are Unsupervised Multitask Learners" by Alec Radford 
 ### Conclusion:
 The paper shows that large-scale language models like GPT-2, trained on diverse datasets in an unsupervised manner, can perform multiple NLP tasks effectively. This approach challenges the traditional paradigm of task-specific supervised learning and opens new avenues for the development of versatile and powerful language models.
 
-For more details, you can access the full paper [here](https://insightcivic.s3.us-east-1.amazonaws.com/language-models.pdf).
+For more details, you can access the full paper [here](https://paperswithcode.com/paper/language-models-are-unsupervised-multitask).
 
 ---
 
-tags: [[Computer Science]] - [[Research Paper]] - [[Language]]
+tags: [[Computer Science]] - [[Research]] - [[Language]]

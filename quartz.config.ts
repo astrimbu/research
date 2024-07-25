@@ -16,7 +16,7 @@ const config: QuartzConfig = {
     },
     locale: "en-US",
     baseUrl: "astrimbu.github.io/research/",
-    ignorePatterns: ["private", "templates", ".obsidian"],
+    ignorePatterns: ["private", "templates", ".obsidian", "Daily"],
     defaultDateType: "created",
     theme: {
       fontOrigin: "googleFonts",

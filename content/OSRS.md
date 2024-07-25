@@ -8,4 +8,4 @@ aliases:
 
 ---
 
-tags: [[Video Game]], [[MMORPG]]
+tags: [[Video game]], [[MMORPG]]

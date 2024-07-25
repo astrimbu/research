@@ -1,11 +1,13 @@
 ---
 title: Cannabis
 aliases:
-  - weed,
   - marijuana
+  - weed
 ---
 
+### THC
+
 
 ---
 
-tags: [[Drugs]] - [[Nature]]
+tags: [[Drug]] - [[Nature]]

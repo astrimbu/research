@@ -7,4 +7,4 @@ title: Diablo
 
 ---
 
-tags: [[Video Game]] - [[Hack and slash]]
+tags: [[Video game]]

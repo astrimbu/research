@@ -18,10 +18,9 @@ title: Piano repertoire
 
 ---
 
-#TODO:
-- [ ] Links to YouTube performances
-- [ ] Sheet music pdf if possible
-- [ ] Each piece as individual note
+- [ ] Add links to YouTube performances
+- [ ] Add sheet music if possible
+- [ ] Add each piece as individual note
 
 ---
 

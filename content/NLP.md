@@ -3,9 +3,8 @@ title: Natural Language Processing
 aliases:
   - Natural Language Processing
 ---
-### Terms
-tokenization, corpus, encoder, decoder,
 
+tokenization, corpus, encoder/decoder  
 
 ---
 

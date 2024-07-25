@@ -1,19 +1,17 @@
 ---
 title: Welcome
 ---
-Welcome to my notebook / second brain / digital garden / blog / wiki.
 
-My goal is to store a bunch of my knowledge / research here in markdown format.
+Welcome to my notebook / Research space 🌱  
 
-Tools used are [Obsidian](https://obsidian.md/) for editing content, [Quartz](https://quartz.jzhao.xyz/) for SSG, GitHub Pages for hosting.
+This is *very* `Under Construction`, but we out here.  
+> ✍️(◔◡◔)  
 
-## Focus areas: ✍️(◔◡◔)
-- [[Computer Science]]
-- [[Language]]
-- [[Stable Diffusion]]
+Main Areas of Interest: [[Computer Science]], [[AI]], [[Language]], [[Psychology]], [[Philosophy]], [[Research]]  
 
-## Info dump: (╯°□°）╯︵ 🧠
-- [[Research Paper]]
-- [[Piano]]
-- [[Disc Golf]]
+Random notes: [[LLM]], [[I don't know]], [[Mushroom]], [[Carbohydrate]], [[Lazy]], [[Illusory truth effect]]  
 
+Tools used:  
+- [Obsidian](https://obsidian.md/) for editing content
+- [[Quartz]] for static site generation
+- [GitHub Pages](https://pages.github.com/) for hosting  

@@ -1,8 +1,12 @@
 ---
 title: Language Models are Few-Shot Learners
+aliases:
+  - Language Models are Few-Shot Learners
+tags:
+  - 🖥️
 ---
 
-https://arxiv.org/pdf/2005.14165
+https://arxiv.org/abs/2005.14165
 
 The paper "Language Models are Few-Shot Learners" by Tom B. Brown et al. introduces GPT-3, an autoregressive language model with 175 billion parameters. This model demonstrates significant improvements in task-agnostic few-shot performance, suggesting that scaling up language models can enable them to perform a wide range of language tasks with minimal task-specific training.
 
@@ -38,8 +42,8 @@ The paper "Language Models are Few-Shot Learners" by Tom B. Brown et al. introdu
 ### Conclusion:
 GPT-3's ability to perform a wide range of tasks with minimal task-specific training demonstrates the potential of scaling up language models for achieving better generalization and versatility. Its performance in few-shot learning settings highlights significant advancements in NLP, though there are still areas for improvement and ethical considerations to address.
 
-For more details, you can access the full paper [here](https://arxiv.org/pdf/2005.14165.pdf).
+For more details, you can access the full paper [here](https://arxiv.org/abs/2005.14165).
 
 ---
 
-tags: [[Computer Science]] - [[Research Paper]] - [[Language]]
+tags: [[Computer Science]] - [[Research]] - [[Language]]
