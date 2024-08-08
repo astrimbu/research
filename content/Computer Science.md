@@ -1,6 +1,6 @@
 ---
-title: Computer Science
-aliases: []
+title: Computer science
+aliases: 
 tags:
   - 🗺️
 ---
@@ -12,5 +12,5 @@ tags:
 - [[Research]]
 - [[Web Development]]
 
- - [[Discrete mathematics]]
- - [[Video game]]
+- [[Discrete mathematics]]
+- [[Video game]]

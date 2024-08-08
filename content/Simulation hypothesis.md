@@ -12,4 +12,4 @@ See also:
 
 ---
 
-tags: [[Philosophy]] - [[Computer Science]]
+tags: [[Philosophy]] - [[Computer science]]

@@ -2,14 +2,23 @@
 title: Welcome
 ---
 
-Welcome to my notebook / Research space 🌱  
+Welcome to my notebook / attention map. 🌱  
 
-This is *very* `Under Construction`, but we out here.  
+This is *very* `Under Construction`.  
 > ✍️(◔◡◔)  
 
-Main Areas of Interest: [[Computer Science]], [[AI]], [[Language]], [[Psychology]], [[Philosophy]], [[Research]]  
+Main Areas:  
+- [[Computer science]], [[AI]]  
+- [[Language]], [[Psychology]], [[Philosophy]]  
+- [[Research]]  
 
-Random notes: [[LLM]], [[I don't know]], [[Mushroom]], [[Carbohydrate]], [[Lazy]], [[Illusory truth effect]]  
+Random notes:  
+- [[LLM]]  
+- [[I don't know]]  
+- [[Mushroom]]  
+- [[Carbohydrate]]  
+- [[Lazy]]  
+- [[Illusory truth effect]]  
 
 Tools used:  
 - [Obsidian](https://obsidian.md/) for editing content

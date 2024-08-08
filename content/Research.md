@@ -9,7 +9,7 @@ A mixture of interesting research papers / texts
 Will be adding my thoughts to these, for now most of them are GPT summaries
 
 Computer Science / AI
-- [[Attention paper]]
+- [[Transformer paper]]
 - [[BERT paper]]
 - [[CLIP paper]]
 - [[ControlNet paper]]
@@ -28,4 +28,4 @@ Philosophy
 
 ---
 
-tags: [[Computer Science]] - [[AI]] - [[Philosophy]]
+tags: [[Computer science]] - [[AI]] - [[Philosophy]]

@@ -1,5 +1,5 @@
 ---
-title: "BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding"
+title: BERT paper
 aliases:
   - Bidirectional Encoder Representations from Transformers
 tags:
@@ -32,4 +32,4 @@ For further reading, you can access the full paper [here](https://arxiv.org/abs/
 
 ---
 
-tags: [[Research]] - [[Computer Science]] - [[Language]]
+tags: [[Research]] - [[Computer science]] - [[Language]]

@@ -11,4 +11,4 @@ A phenomenon where larger entities, patterns, or properties arise through intera
 
 ---
 
-tags: [[Philosophy]] - [[Computer Science]] - [[AI]] - [[Brain]]
+tags: [[Philosophy]] - [[Computer science]] - [[AI]] - [[Brain]]

@@ -8,4 +8,4 @@ Auto-Categorization and Retrieval Engine
 
 ---
 
-tags: [[Computer Science]] - [[ML]]
+tags: [[Computer science]] - [[ML]]

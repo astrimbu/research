@@ -19,4 +19,4 @@ Cybersecurity involves the implementation of security measures across various la
 
 ---
 
-tags: [[Computer Science]]
+tags: [[Computer science]]

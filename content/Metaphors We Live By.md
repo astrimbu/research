@@ -1,5 +1,5 @@
 ---
-title: The Metaphors We Live By
+title: Metaphors We Live By
 ---
 "Metaphors We Live By" (1980) is a seminal book by linguist George Lakoff and philosopher Mark Johnson that explores the role of metaphors in shaping our understanding of the world.  
 

@@ -1,10 +1,10 @@
 ---
-title: Meditations on First Philosophy by René Descartes (1641)
+title: Meditations on First Philosophy
 tags:
   - 🖥️
 ---
 
-**"Meditations on First Philosophy"** is a foundational work in Western philosophy by René Descartes. It consists of six meditations in which Descartes seeks to establish a firm foundation for scientific knowledge by doubting all beliefs that can be called into question.
+**"Meditations on First Philosophy"** is a foundational work in Western philosophy by René Descartes (1641). It consists of six meditations in which Descartes seeks to establish a firm foundation for scientific knowledge by doubting all beliefs that can be called into question.
 
 1. **First Meditation: Of the Things Which We May Doubt**
     - Descartes begins by considering the falsehoods he has believed and the doubts he has about the reliability of his senses. He resolves to discard all opinions that are not absolutely certain.

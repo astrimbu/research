@@ -3,6 +3,7 @@ title: Neural Net
 aliases:
   - nn
 ---
+
 Work in progress. Here's a picture:  
 
 ![[Pasted image 20240624194417.png]]
@@ -16,4 +17,4 @@ Tensorflow, Pytorch,
 
 ---
 
-tags: [[Computer Science]] - [[ML]]
+tags: [[Computer science]] - [[ML]]

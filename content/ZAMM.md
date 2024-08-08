@@ -1,5 +1,5 @@
 ---
-title: Zen and the Art of Motorcycle Maintenance
+title: ZAMM
 aliases:
   - Zen and the Art of Motorcycle Maintenance
 ---

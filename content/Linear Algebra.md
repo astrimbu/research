@@ -1,5 +1,5 @@
 ---
-title: Linear Algebra
+title: Linear algebra
 ---
 
 #### Vectors and matrices

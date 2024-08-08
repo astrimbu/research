@@ -1,5 +1,5 @@
 ---
-title: Machine Learning
+title: ML
 aliases:
   - machine learning
 ---
@@ -8,4 +8,4 @@ aliases:
 
 ---
 
-tags: [[Computer Science]] - [[AI]]
+tags: [[Computer science]] - [[AI]]

@@ -1,5 +1,5 @@
 ---
-title: NeRF Representing Scenes as Neural Radiance Fields for View Synthesis
+title: NeRF paper
 aliases:
   - Neural Radiance Field
 tags:
@@ -38,4 +38,4 @@ In conclusion, the paper presents NeRF as a breakthrough in scene representation
 
 ---
 
-tags: [[Computer Science]] - [[Research]]
+tags: [[Computer science]] - [[Research]]

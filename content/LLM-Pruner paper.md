@@ -1,5 +1,5 @@
 ---
-title: LLM-Pruner On the Structural Pruning of Large Language Models
+title: LLM-Pruner paper
 aliases:
   - LLM-Pruner On the Structural Pruning of Large Language Models
 tags:
@@ -38,4 +38,4 @@ For more details, you can access the full paper [here](https://arxiv.org/abs/230
 
 ---
 
-tags: [[Computer Science]] - [[Research]] - [[Language]]
+tags: [[Computer science]] - [[Research]] - [[Language]]

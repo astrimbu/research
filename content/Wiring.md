@@ -1,5 +1,5 @@
 ---
-title: Electrical wiring
+title: Wiring
 aliases:
   - electrical wiring
   - electrical work

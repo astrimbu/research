@@ -5,9 +5,4 @@ aliases:
   - weed
 ---
 
-### THC
-
-
----
-
 tags: [[Drug]] - [[Nature]]

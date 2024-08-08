@@ -15,4 +15,4 @@ Stable Diffusion consists of 3 parts: the [variational autoencoder](https://en.
 
 ---
 
-tags: [[Computer Science]] - [[AI]]
+tags: [[Computer science]] - [[AI]]

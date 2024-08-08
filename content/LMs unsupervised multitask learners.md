@@ -1,5 +1,5 @@
 ---
-title: Language Models are Unsupervised Multitask Learners
+title: LMs unsupervised multitask learners
 aliases:
   - Language Models are Unsupervised Multitask Learners
 tags:
@@ -46,4 +46,4 @@ For more details, you can access the full paper [here](https://paperswithcode.co
 
 ---
 
-tags: [[Computer Science]] - [[Research]] - [[Language]]
+tags: [[Computer science]] - [[Research]] - [[Language]]

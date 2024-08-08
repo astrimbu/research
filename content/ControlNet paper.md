@@ -1,5 +1,5 @@
 ---
-title: Adding Conditional Control to Text-to-Image Diffusion Models
+title: ControlNet paper
 aliases:
   - Adding Conditional Control to Text-to-Image Diffusion Models
 tags:
@@ -33,4 +33,4 @@ For further details, you can view the full paper [here](https://arxiv.org/abs/23
 
 ---
 
-tags: [[Computer Science]] - [[Research]] - [[AI]] - [[Neural Net]]
+tags: [[Computer science]] - [[Research]] - [[AI]] - [[Neural Net]]

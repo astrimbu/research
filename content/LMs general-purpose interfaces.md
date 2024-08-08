@@ -1,5 +1,5 @@
 ---
-title: Language Models are General-Purpose Interfaces
+title: LMs general-purpose interfaces
 aliases:
   - Language Models are General-Purpose Interfaces
 tags:
@@ -39,4 +39,4 @@ For more details, you can access the full paper [here](https://arxiv.org/abs/220
 
 ---
 
-tags: [[Computer Science]] - [[Research]] - [[Language]]
+tags: [[Computer science]] - [[Research]] - [[Language]]

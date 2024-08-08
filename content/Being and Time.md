@@ -1,5 +1,5 @@
 ---
-title: '"Being and Time" by Martin Heidegger (1927)'
+title: Being and Time
 tags:
   - 🖥️
 ---

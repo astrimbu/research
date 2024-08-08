@@ -1,5 +1,5 @@
 ---
-title: Defense of the Ancients 2
+title: DotA 2
 aliases:
   - Defense of the Ancients 2
 ---
@@ -8,4 +8,4 @@ aliases:
 
 ---
 
-tags: [[Video game]] - [[MoBA]]
+tags: [[Video game]]

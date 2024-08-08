@@ -2,7 +2,4 @@
 title: Raid
 ---
 
-
----
-
-tags: [[OSRS]]
+tags: [[OSRS]] - [[MMORPG]]

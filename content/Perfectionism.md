@@ -17,8 +17,7 @@ Perfectionism is a risk factor for obsessive–compulsive disorder, obsessive–
 
 Therapists attempt to tackle the negative thinking that surrounds perfectionism, in particular the "all-or-nothing" thinking in which the client believes that an achievement is either perfect or useless. They encourage clients to set realistic goals and to face their fear of failure.
 
-- https://en.wikipedia.org/wiki/Perfectionism_(psychology)
-
+- https://en.wikipedia.org/wiki/Perfectionism_(psychology)  
 
 ---
 

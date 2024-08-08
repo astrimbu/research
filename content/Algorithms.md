@@ -12,4 +12,4 @@ input -> sequence of well-defined steps -> output
 
 ---
 
-tags: [[Computer Science]]
+tags: [[Computer science]]

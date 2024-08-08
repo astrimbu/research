@@ -1,10 +1,11 @@
 ---
-title: Learning Transferable Visual Models From Natural Language Supervision
+title: CLIP paper
 aliases:
   - Contrastive Language–Image Pretraining
 tags:
   - 🖥️
 ---
+
 https://arxiv.org/abs/2103.00020
 
 Contrastive
@@ -29,4 +30,4 @@ For further reading, you can access the full paper [here](https://arxiv.org/abs/
 
 ---
 
-tags: [[Computer Science]] - [[Research]] - [[Language]]
+tags: [[Computer science]] - [[Research]] - [[Language]]

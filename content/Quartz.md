@@ -22,4 +22,4 @@ The concept of a "digital garden", as opposed to traditional hierarchical system
 
 ---
 
-tags: [[Computer Science]] - [[Web Development]]
+tags: [[Computer science]] - [[Web Development]]

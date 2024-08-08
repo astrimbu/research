@@ -1,5 +1,5 @@
 ---
-title: Natural Language Processing
+title: NLP
 aliases:
   - Natural Language Processing
 ---
@@ -8,4 +8,4 @@ tokenization, corpus, encoder/decoder
 
 ---
 
-tags: [[Computer Science]] - [[Language]]
+tags: [[Computer science]] - [[Language]]

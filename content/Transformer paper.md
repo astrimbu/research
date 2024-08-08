@@ -1,5 +1,5 @@
 ---
-title: Attention Is All You Need
+title: Transformer paper
 aliases:
   - Attention Is All You Need
 tags:
@@ -41,4 +41,4 @@ The introduction of the Transformer model marks a significant advancement in seq
 
 ---
 
-tags: [[Computer Science]] - [[Research]] - [[ML]] - [[Transformer]]
+tags: [[Computer science]] - [[Research]] - [[ML]] - [[Transformer]]

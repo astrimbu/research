@@ -18,8 +18,8 @@ Understanding natural language, and more.
 - [[Research]]
 - [[LLM]]
 - [[Stable Diffusion]]
-- [[AI Syllabus]]
+- [[AI fundamentals]]
 
 ---
 
-tags: [[Computer Science]] - [[ML]] - [[Research]]
+tags: [[Computer science]] - [[ML]] - [[Research]]

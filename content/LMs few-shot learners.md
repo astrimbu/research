@@ -1,5 +1,5 @@
 ---
-title: Language Models are Few-Shot Learners
+title: LMs few-shot learners
 aliases:
   - Language Models are Few-Shot Learners
 tags:
@@ -46,4 +46,4 @@ For more details, you can access the full paper [here](https://arxiv.org/abs/200
 
 ---
 
-tags: [[Computer Science]] - [[Research]] - [[Language]]
+tags: [[Computer science]] - [[Research]] - [[Language]]

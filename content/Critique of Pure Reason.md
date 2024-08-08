@@ -1,10 +1,10 @@
 ---
-title: '"Critique of Pure Reason" by Immanuel Kant (1781)'
+title: Critique of Pure Reason
 tags:
   - 🖥️
 ---
 
-**"Critique of Pure Reason"** is one of the most influential works in Western philosophy, written by Immanuel Kant.  
+**"Critique of Pure Reason"** is one of the most influential works in Western philosophy, written by Immanuel Kant in 1781.  
 
 The book seeks to answer two central questions:  
 

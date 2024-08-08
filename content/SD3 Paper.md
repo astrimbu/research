@@ -1,10 +1,11 @@
 ---
-title: Scaling Rectified Flow Transformers for High-Resolution Image Synthesis
+title: SD3 Paper
 aliases:
   - Scaling Rectified Flow Transformers for High-Resolution Image Synthesis
 tags:
   - 🖥️
 ---
+
 https://arxiv.org/abs/2403.03206  
 
 ### Abstract:
@@ -35,4 +36,4 @@ For the detailed content and specific findings, please refer to the full paper o
 
 ---
 
-tags: [[Computer Science]] - [[Research]] - [[AI]]
+tags: [[Computer science]] - [[Research]] - [[AI]]

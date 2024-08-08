@@ -5,8 +5,4 @@ aliases:
   - clue
 ---
 
-
-
----
-
 tags: [[OSRS]]

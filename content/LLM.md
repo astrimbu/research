@@ -1,5 +1,5 @@
 ---
-title: Large Language Model
+title: LLM
 aliases:
   - large language model
 ---
@@ -48,4 +48,4 @@ Todo: expand on the following:
 
 ---
 
-tags: [[Computer Science]] - [[Language]] - [[ML]] - [[AI]]
+tags: [[Computer science]] - [[Language]] - [[ML]] - [[AI]]

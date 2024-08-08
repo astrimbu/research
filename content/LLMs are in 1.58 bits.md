@@ -1,5 +1,5 @@
 ---
-title: The Era of 1-bit LLMs All Large Language Models are in 1.58 Bits
+title: LLMs are in 1.58 bits
 aliases:
   - The Era of 1-bit LLMs All Large Language Models are in 1.58 Bits
 tags:
@@ -31,4 +31,4 @@ For more details, you can access the full paper [here](https://arxiv.org/abs/240
 
 ---
 
-tags: [[Computer Science]] - [[Research]] - [[Language]]
+tags: [[Computer science]] - [[Research]] - [[Language]]
