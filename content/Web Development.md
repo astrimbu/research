@@ -1,5 +1,5 @@
 ---
-title: Web Development
+title: Web development
 aliases:
   - webdev
 ---

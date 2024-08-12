@@ -10,7 +10,7 @@ tags:
 - [[ML]]
 - [[NLP]]
 - [[Research]]
-- [[Web Development]]
+- [[Web development]]
 
 - [[Discrete mathematics]]
 - [[Video game]]
