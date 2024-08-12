@@ -4,7 +4,7 @@ title: Welcome
 
 This is a notebook full of random notes, enjoy. Click the Graph View at the bottom / right hand side -- it shows all the connections between all the notes I've written. The resulting map is neat, I think.  
 
-> ✍️(◔◡◔) - [[Web development]] 
+> ✍️(◔◡◔) - [[Web Development]] 
 
 Main Areas: [[Computer science]] - [[Language]] - [[Research]]  
 
