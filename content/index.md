@@ -2,25 +2,16 @@
 title: Welcome
 ---
 
-Welcome to my notebook / attention map. 🌱  
+This is a notebook full of random notes, enjoy. Click the Graph View at the bottom / right hand side -- it shows all the connections between all the notes I've written. The resulting map is neat, I think.  
 
-This is *very* `Under Construction`.  
-> ✍️(◔◡◔)  
+> ✍️(◔◡◔) - [[Web development]] 
 
-Main Areas:  
-- [[Computer science]], [[AI]]  
-- [[Language]], [[Psychology]], [[Philosophy]]  
-- [[Research]]  
+Main Areas: [[Computer science]] - [[Language]] - [[Research]]  
 
-Random notes:  
-- [[LLM]]  
-- [[I don't know]]  
-- [[Mushroom]]  
-- [[Carbohydrate]]  
-- [[Lazy]]  
-- [[Illusory truth effect]]  
+Random: [[I don't know]]  
 
 Tools used:  
-- [Obsidian](https://obsidian.md/) for editing content
-- [[Quartz]] for static site generation
+- [Obsidian](https://obsidian.md/) for editing content  
+- [[Neovim]] for editing content  
+- [[Quartz]] for static site generation  
 - [GitHub Pages](https://pages.github.com/) for hosting  

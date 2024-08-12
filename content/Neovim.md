@@ -8,9 +8,11 @@ kickstart.nvim works as a launch point.
 
 Highly customizable, some people fully replace VSCode with it.  
 
+I like the idea of never leaving the terminal.  
+
 Steps I took to get autocomplete working:
 
-- nvim init.lua
+- nvim $home\AppData\local\nvim\init.lua
 	- :Mason
 		- Install relevant LSPs (Language Server Protocol)
 	- Note: Lua autocomplete works out of the box
@@ -25,12 +27,14 @@ Steps I took to get autocomplete working:
 			- Manually install missing packages
 				- https://packages.msys2.org/queue
 				- e.g. pacman -Sy mingw-w64-ucrt-x86_64-7zip
-			- Double check PATH
+			- Check PATH
 				- C:\\msys64\\ucrt64\\bin
 				- C:\\msys64\\usr\\bin
 			- Check PowerShell version
 				- $PSVersionTable
 				- winget install --id Microsoft.PowerShell --source winget
+
+That got autocomplete working for me.
 
 ---
 
