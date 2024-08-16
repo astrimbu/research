@@ -2,9 +2,9 @@
 title: React
 ---
 
-Documenting the steps I take from scratch to a React App deployed on GitHub pages.
+React is a user interface library
 
-Make a fresh project with Vite's React template
+Deploying a React project (with Vite and GitHub)  
 
 1. cd new-project
 2. npm create vite@latest . -- -- template react
@@ -12,7 +12,7 @@ Make a fresh project with Vite's React template
 4. npm run dev
 5. (Write code in App.jsx)
 
-Initialize git, set origin
+git init, set origin
 
 1. git init
 2. git add .
@@ -32,8 +32,6 @@ Install gh-pages, edit package.json / vite.config.js, edit GitHub repo settings
 5. npm run deploy
 6. GitHub repo > Settings > Pages > Deploy from a branch (gh-pages)
 
-Functional examples:
-- https://www.github.com/astrimbu/coinflip
-	- https://alan.computer/coinflip
-- https://www.github.com/astrimbu/mandelbrot
-	- https://alan.computer/mandelbrot
+---
+
+tags: [[Computer Science]] - [[Web development]]

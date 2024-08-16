@@ -20,4 +20,4 @@ Anyway, things to add:
 
 ---
 
-tags: [[Computer science]]
+tags: [[Computer science]] - [[React]] - [[Neovim]]

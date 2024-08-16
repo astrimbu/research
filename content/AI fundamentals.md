@@ -1,11 +1,9 @@
 ---
+id: AI fundamentals
+aliases: []
+tags: []
 title: AI fundamentals
 ---
-
-~~"Learn XYZ in 10 minutes"~~  
-
-Read, take notes, re-read, re-phrase:  
-	textbooks, docs, papers, manuals, longform  
 
 1. Iteratively take on concrete projects and accomplish them depth-wise, learning "on demand"  
 2. Teach/summarize everything you learn in your own words  
