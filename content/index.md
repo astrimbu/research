@@ -1,4 +1,7 @@
 ---
+id: index
+aliases: []
+tags: []
 title: Welcome
 ---
 
@@ -7,7 +10,7 @@ Enjoy!
 
 > ✍️(◔◡◔) - [[Web development]] 
 
-Main Areas: [[Computer science]] - [[Language]] - [[Research]]  
+Main Areas: [[Computer Science]] - [[Language]] - [[Research]]  
 
 Random: [[I don't know]]  
 
