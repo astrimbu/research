@@ -29,8 +29,3 @@ The paper "Adding Conditional Control to Text-to-Image Diffusion Models" introdu
     - Extensive results indicate that ControlNet can enhance the control of image diffusion models, potentially facilitating a wide range of applications.
 
 For further details, you can view the full paper [here](https://arxiv.org/abs/2302.05543).
-
-
----
-
-tags: [[Computer science]] - [[Research]] - [[AI]] - [[Neural Net]]

@@ -11,7 +11,3 @@ The intensity and duration of the effects of psilocybin are variable, depending 
 Possession of psilocybin-containing mushrooms has been outlawed in most countries, and psilocybin has been classified as a Schedule I controlled substance under the 1971 United Nations Convention on Psychotropic Substances.
 
 - https://en.wikipedia.org/wiki/Psilocybin
-
----
-
-tags: [[Mushroom]] - [[Fungus]] - [[Drug]]

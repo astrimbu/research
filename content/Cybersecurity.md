@@ -16,7 +16,3 @@ Cybersecurity is the practice of protecting systems, networks, and programs from
 8. **Compliance and Risk Management**: Ensuring that an organization adheres to laws and regulations regarding cybersecurity and managing the risk associated with cyber threats.
 
 Cybersecurity involves the implementation of security measures across various layers of an organization's IT infrastructure, including hardware, software, networks, and data. The goal is to create a comprehensive defense strategy to prevent, detect, and respond to cyber threats.  
-
----
-
-tags: [[Computer science]]

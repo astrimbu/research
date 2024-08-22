@@ -49,7 +49,3 @@ title: Coffee
 
 ### Caffeine
 
-
----
-
-tags: [[Food]] - [[Drug]]

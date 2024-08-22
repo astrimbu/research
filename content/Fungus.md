@@ -20,7 +20,3 @@ These organisms are classified as one of the traditional eukaryotic kingdoms, al
 Fungi, like animals, are heterotrophs; they acquire their food by absorbing dissolved molecules, typically by secreting digestive enzymes into their environment.  
 
 - https://en.wikipedia.org/wiki/Fungus
-
----
-
-tags: [[Nature]] - [[Mushroom]]

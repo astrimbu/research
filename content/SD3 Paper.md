@@ -32,8 +32,3 @@ The paper discusses advancements in the use of Rectified Flow Transformers for s
 The study presents a substantial advancement in the field of image synthesis, particularly for high-resolution images. The Rectified Flow Transformers and the novel scaling strategy offer a promising approach to generating high-quality images, potentially impacting various applications in computer vision and graphics.
 
 For the detailed content and specific findings, please refer to the full paper on arXiv: [Scaling Rectified Flow Transformers for High-Resolution Image Synthesis](https://arxiv.org/abs/2403.03206).
-
-
----
-
-tags: [[Computer science]] - [[Research]] - [[AI]]

@@ -2,6 +2,8 @@
 title: Piano repertoire
 ---
 
+Pieces I can play on the piano.  
+
 - Beethoven Sonata op.13 no.8 _"Pathétique"_
 - Rachmaninoff Prelude op.3 no.2
 - Chopin Nocturne op.55 no.1
@@ -16,13 +18,3 @@ title: Piano repertoire
 - Kolling op.147 no.2 _"Flying Leaves"_
 - Rachmaninoff Prelude op.23 no.5
 - Kapustin Etude op.40 no.6 _"Pastorale"_
-
----
-
-- [ ] Add links to YouTube performances
-- [ ] Add sheet music if possible
-- [ ] Add each piece as individual note
-
----
-
-tags: [[Piano]]

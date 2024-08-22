@@ -8,7 +8,3 @@ Per- | Poly-
 Fluoro-  
 Alkyl  
 Substances  
-
----
-
-tags: [[Plastic]]

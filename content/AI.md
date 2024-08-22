@@ -19,7 +19,3 @@ Understanding natural language, and more.
 - [[LLM]]
 - [[Stable Diffusion]]
 - [[AI fundamentals]]
-
----
-
-tags: [[Computer science]] - [[ML]] - [[Research]]

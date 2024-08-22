@@ -6,7 +6,3 @@ title: Calculus
 - Derivatives and optimization
 - Integrals and area under curves
 - Multivariable calculus
-
----
-
-tags: [[Mathematics]]

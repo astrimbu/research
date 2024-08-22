@@ -5,6 +5,7 @@ aliases:
 tags:
   - 🖥️
 ---
+
 https://arxiv.org/abs/1810.04805
 
 Bidirectional  
@@ -29,7 +30,3 @@ The paper titled "BERT: Pre-training of Deep Bidirectional Transformers for Lang
 BERT's introduction has significantly advanced the field of natural language processing by providing a powerful, flexible, and empirically effective model for a wide range of language understanding tasks.
 
 For further reading, you can access the full paper [here](https://arxiv.org/abs/1810.04805).
-
----
-
-tags: [[Research]] - [[Computer science]] - [[Language]]

@@ -24,7 +24,3 @@ Commonly used in:
 Repeated exposure to certain messages can shape public opinion and beliefs.  
 
 Understanding this bias is crucial for critically evaluating information and recognizing the potential influence of repeated statements on one's beliefs and decisions.  
-
----
-
-tags: [[Psychology]] - [[Language]]

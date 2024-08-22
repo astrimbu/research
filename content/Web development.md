@@ -5,19 +5,16 @@ aliases:
 ---
 
 Web development is great.  
-You can just put stuff on the Internet.  
-Like this: 🍕❗
+You can put stuff on the Internet.  
+Example: 🍕  
 
-I'm currently practicing my JavaScript (and my prompting - thanks Claude), learning new [[React]] principles (note on `useReducer` coming soon), wasting time customizing my IDE ([[Neovim]] is 😎), and just increasing the # of (good?) projects on [my website](https://alan.computer).
+I'm currently learning new [[React]] concepts by coding a [Mini RPG](https://alan.computer/coinflip), and wasting time customizing my development environment ([[Neovim]] is very fun).  
 
-Anyway, things to add:  
-- [ ] Node, npm
-- [ ] Vite
+Things to discuss:  
 - [ ] JavaScript, JSX
 - [ ] HTML/CSS
+- [ ] Node.js - *JavaScript runtime environment* 
+- [ ] npm - *default Node.js package manager*
+- [ ] Vite - *React project templates*
 - [x] [[React]]
 - [x] [[Neovim]]
-
----
-
-tags: [[Computer science]] - [[React]] - [[Neovim]]

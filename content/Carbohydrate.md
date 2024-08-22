@@ -44,7 +44,3 @@ Commonly referred to as sugars.
 Polysaccharides serve as an energy store (e.g. starch and glycogen) and as structural components (e.g. cellulose in plants and chitin in arthropods/fungi).
 
 - https://en.wikipedia.org/wiki/Carbohydrate
-
----
-
-tags: [[Chemistry]] - [[Monosaccharide]] - [[Polysaccharide]]

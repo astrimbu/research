@@ -35,7 +35,3 @@ The NeRF approach demonstrates state-of-the-art performance in synthesizing high
 - **Film and Media Production**: Enabling high-quality visual effects and scene reconstructions.
 
 In conclusion, the paper presents NeRF as a breakthrough in scene representation and view synthesis, showcasing the potential of neural networks to model and render complex 3D environments with impressive accuracy and detail.
-
----
-
-tags: [[Computer science]] - [[Research]]

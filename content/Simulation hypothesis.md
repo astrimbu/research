@@ -7,9 +7,4 @@ The simulation hypothesis proposes that what humans experience as the world is a
 
 - https://en.wikipedia.org/wiki/Simulation_hypothesis  
 
-See also:  
-- Plato's [[allegory of the cave]]  
-
----
-
-tags: [[Philosophy]] - [[Computer science]]
+See also: [[Allegory of the cave]]  

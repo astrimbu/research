@@ -18,7 +18,3 @@ Three higher levels exist:
 - the [[theory of forms]]  
 
 - https://en.wikipedia.org/wiki/Allegory_of_the_cave  
-
----
-
-tags: [[Philosophy]]

@@ -8,7 +8,7 @@ tags:
 
 Freud sought to reveal the complex and often hidden workings of the unconscious, shedding light on the deeper motivations and conflicts that influence our thoughts and behaviors.  
 
-
+---
 
 Dreams as Wish Fulfillment  
 - dreams enable unconscious to fulfill repressed desires / wishes

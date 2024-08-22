@@ -13,8 +13,3 @@ The Forms are expounded upon in Plato's dialogues and general speech, in that ev
 Plato's Socrates held that the world of Forms is transcendent to our own world (the world of substances) and also is the essential basis of reality. Super-ordinate to matter, Forms are the most pure of all things. Furthermore, he believed that true knowledge/intelligence is the ability to grasp the world of Forms with one's mind.
 
 - https://en.wikipedia.org/wiki/Theory_of_forms
-
-
----
-
-tags: [[Philosophy]]

@@ -83,4 +83,3 @@ title: AI fundamentals
 
 5. Explainable AI (XAI)
 	- Interpretability methods
-

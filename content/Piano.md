@@ -2,4 +2,6 @@
 title: Piano
 ---
 
-tags: [[Piano Repertoire]]
+I play the piano.  
+
+See also: [[Piano Repertoire]]  

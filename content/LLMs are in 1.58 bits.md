@@ -28,7 +28,3 @@ The paper titled "The Era of 1-bit LLMs: All Large Language Models are in 1.58 B
 The introduction of BitNet b1.58 marks a significant step forward in the efficiency of large language models. By utilizing a 1-bit representation for model parameters, it achieves a balance between performance and resource efficiency, paving the way for more scalable and accessible LLMs.
 
 For more details, you can access the full paper [here](https://arxiv.org/abs/2402.17764).
-
----
-
-tags: [[Computer science]] - [[Research]] - [[Language]]

@@ -27,7 +27,3 @@ Pretraining
 CLIP's approach of using natural language supervision to learn visual representations has significant implications for the development of more general and adaptable AI models. It shows that language can serve as a powerful tool for supervising and improving the training of visual models, leading to more flexible and capable AI systems.
 
 For further reading, you can access the full paper [here](https://arxiv.org/abs/2103.00020).
-
----
-
-tags: [[Computer science]] - [[Research]] - [[Language]]

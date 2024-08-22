@@ -4,7 +4,7 @@ aliases:
   - large language model
 ---
 
-What's a machine learning model?  
+What's an ML model?  
 > An object/file that has been conditioned by an algorithm to learn specific patterns in datasets  
 
 What's an LLM?  
@@ -42,10 +42,6 @@ How to train an LLM from scratch:
 
 Todo: expand on the following:
 - [ ] Closed-source models
-- [ ] Llama3, 3.1
+- [ ] Llama3.1
 - [ ] OpenWebUI
 - [ ] Ollama
-
----
-
-tags: [[Computer science]] - [[Language]] - [[ML]] - [[AI]]

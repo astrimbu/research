@@ -6,7 +6,3 @@ title: Statistics
 - Descriptive statistics
 - Inferential statistics
 - Bayesian statistics
-
----
-
-tags: [[Mathematics]] - [[OSRS]]

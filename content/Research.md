@@ -4,9 +4,9 @@ tags:
   - 🗺️
 ---
 
-A mixture of interesting research papers / texts  
+Interesting research papers & texts  
 
-Will be adding my thoughts to these, for now most of them are GPT summaries
+Will be adding my thoughts to these, for now most of them are LLM summaries
 
 Computer Science / AI
 - [[Transformer paper]]
@@ -25,7 +25,3 @@ Philosophy
 - [[Meditations on First Philosophy]]
 - [[Critique of Pure Reason]]
 - [[Being and Time]]
-
----
-
-tags: [[Computer science]] - [[AI]] - [[Philosophy]]

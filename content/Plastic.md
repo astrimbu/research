@@ -1,5 +1,0 @@
----
-title: Plastic
-aliases:
-  - polymer
----

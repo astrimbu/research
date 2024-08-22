@@ -37,7 +37,3 @@ tags:
 
 **Link to Full Text:**  
 - [Read "Being and Time" on Google Books](https://books.google.com/books/about/Being_and_Time.html?id=2P-Lc872b1UC)  
-
----
-
-tags: [[Research]] - [[Philosophy]] - [[Book]]

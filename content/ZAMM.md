@@ -9,7 +9,3 @@ A great philosophical novel by Robert M. Pirsig
 "What is quality?"  
 Quality can not be bought, only made.  
 Quality is consciousness applied.  
-
----
-
-tags: [[Book]] - [[Philosophy]]

@@ -7,7 +7,3 @@ title: Self-handicapping
 People withdraw effort or create obstacles to successes so they can maintain public and private self-images of competence.  
 
 - https://en.wikipedia.org/wiki/Self-handicapping  
-
----
-
-tags: [[Psychology]]

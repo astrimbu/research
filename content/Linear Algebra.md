@@ -21,12 +21,6 @@ Vector multiplication (scaling): $2 \begin{bmatrix} 3 \\ -5 \end{bmatrix} = \beg
 
 ---
 
-
-
 - Matrix operations
 - Eigenvalues and eigenvectors
 - Vector spaces and linear transformations
-
----
-
-tags: [[Mathematics]]

@@ -32,7 +32,3 @@ Flow States
 
 Attention Disorders  
 	Disorders of attention, such as ADHD, highlight the importance of attention in normal conscious functioning. These conditions can affect perception, memory, and executive functions, altering the experience of consciousness.  
-
----
-
-tags: [[Brain]]

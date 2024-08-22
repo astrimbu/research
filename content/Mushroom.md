@@ -5,7 +5,7 @@ aliases: []
 
 A mushroom is the fruiting body of a [[Fungus|fungus]].  
 
-Mushrooms are a good source of [[food]]:  
+Mushrooms are a good source of food:  
 - Button, Portobello - *Agaricus bisporus*
 - Shiitake - *Lentinula edodes*
 - Chanterelle - *Cantharellus cibarius*
@@ -17,7 +17,3 @@ Some mushroom species produce secondary metabolites that can be toxic, mind-alte
 - https://en.wikipedia.org/wiki/Mushroom
 
 [[Psilocybin]] mushrooms contain psychoactive compounds that can produce profound visual and cognitive effects in humans.
-
----
-
-tags: [[Nature]] - [[Food]] - [[Drug]] - [[Fungus]]

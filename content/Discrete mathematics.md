@@ -19,8 +19,3 @@ By contrast, discrete mathematics excludes topics in "continuous mathematics" su
 Discrete objects can often be enumerated by integers.  
 
 - https://en.wikipedia.org/wiki/Discrete_mathematics
-
-
----
-
-tags: [[Mathematics]]

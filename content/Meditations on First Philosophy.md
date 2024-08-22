@@ -24,7 +24,3 @@ tags:
 
 **Link to Full Text:**  
 - [Read "Meditations on First Philosophy" on Project Gutenberg](https://www.gutenberg.org/ebooks/59)
-
----
-
-tags: [[Research]] - [[Philosophy]] - [[Book]]

@@ -8,7 +8,3 @@ aliases:
 German DJ  
 
 High-tech minimal  
-
----
-
-tags: [[Music]]

@@ -31,7 +31,3 @@ Install gh-pages, edit package.json / vite.config.js, edit GitHub repo settings
 4. npm run build
 5. npm run deploy
 6. GitHub repo > Settings > Pages > Deploy from a branch (gh-pages)
-
----
-
-tags: [[Computer Science]] - [[Web development]]

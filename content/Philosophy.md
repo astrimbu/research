@@ -13,7 +13,3 @@ An ancient discipline that seeks to understand the nature of things, including h
 - [[Theory of Forms]]
 - [[Virtue]]
 - [[ZAMM|Zen and the Art of Motorcycle Maintenance]]
-
----
-
-tags: [[Society]] - [[Culture]]

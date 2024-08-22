@@ -23,7 +23,3 @@ Such a circumstance is more formally known as **cognitive distortion**.
 Dwelling is overthinking.  
 
 - https://www.crystalinks.com/analysisparalysis.html
-
----
-
-tags: [[Psychology]]

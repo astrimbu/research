@@ -13,7 +13,3 @@ When someone takes pleasure in doing what is right, even when it is difficult or
 The opposite of virtue is **vice**, and the vicious person takes pleasure in habitual wrong-doing to their detriment.  
 
 - https://en.wikipedia.org/wiki/Virtue  
-
----
-
-tags: [[Philosophy]]

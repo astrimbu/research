@@ -31,7 +31,3 @@ The table sugar used in everyday vernacular is itself a disaccharide sucrose com
 The monosaccharide glucose plays a pivotal role in metabolism, where the chemical energy is extracted through glycolysis and the citric acid cycle to provide energy to living organisms. Maltose is the dehydration condensate of two glucose molecules.  
 
 - https://en.wikipedia.org/wiki/Monosaccharide
-
----
-
-tags: [[Chemistry]] - [[Carbohydrate]]

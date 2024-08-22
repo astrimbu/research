@@ -10,6 +10,4 @@ Optimize until reaching the point of Diminishing Returns, then focus on somethin
 
 - https://personalmba.com/diminishing-returns  
 
----
-
-tags: [[Perfectionism]]
+See also: [Perfectionism]

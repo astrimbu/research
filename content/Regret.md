@@ -21,7 +21,3 @@ Existential regret has been specifically defined as "a profound desire to go bac
 The person experiences a combination of existential anxiety and existential guilt. Existential anxiety stems from confrontation with existential givens, including the finitude of past choices, inability to change the past, and the finitude of freedom in the past. With existential regret, the object of regret is an experience in which one failed to make a conscious, wholehearted choice and instead has made a choice in a moment of bad faith or lack of authentic presence and subjectivity. One’s sense is of having abandoned and betrayed the self, thereby feeling deep existential guilt. A paralysis of action and choice may follow.  
 
 - https://doi.org/10.1177/0022167803259752  
-
----
-
-tags: [[Psychology]]

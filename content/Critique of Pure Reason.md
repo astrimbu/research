@@ -46,7 +46,3 @@ How can we know it?
 
 **Link to Full Text:**  
 - [Read "Critique of Pure Reason" on Project Gutenberg](https://www.gutenberg.org/ebooks/4280)  
-
----
-
-tags: [[Research]] - [[Philosophy]] - [[Book]]

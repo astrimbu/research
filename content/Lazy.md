@@ -81,8 +81,3 @@ can be influenced by learned behaviors and cognitive factors.
 	- `dopaminergic system` × `prefrontal cortex`
 		- `reward` × `planning and decision-making`
 	- Strategies that enhance the perceived value of effortful tasks can engage these systems more effectively.
-
-
----
-
-tags: [[Psychology]]
