@@ -8,7 +8,7 @@ tags:
 
 The book seeks to answer two central questions:  
 
-What can we know?  and  
+What can we know?  
 How can we know it?  
 
 #### Main Themes:
@@ -39,10 +39,7 @@ How can we know it?
 - **Limits of Human Knowledge**
     - while we can know phenomena, we cannot know the noumena or things-in-themselves.
 
-#### Impact:
+Limits of human knowledge  
+Active role of the mind in shaping experience  
 
-- foundational for much of modern philosophy, influencing subsequent thinkers and shaping discussions in epistemology, metaphysics, ethics, and aesthetics.
-- ideas about the limits of human knowledge and the active role of the mind in shaping experience have had a lasting impact.
-
-**Link to Full Text:**  
-- [Read "Critique of Pure Reason" on Project Gutenberg](https://www.gutenberg.org/ebooks/4280)  
+[Read "Critique of Pure Reason" on Project Gutenberg](https://www.gutenberg.org/ebooks/4280)  

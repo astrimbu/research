@@ -25,15 +25,6 @@ tags:
 8. **Thrownness (Geworfenheit)**
     - Heidegger describes Dasein as "thrown" into the world, which means that individuals find themselves in a set of circumstances not of their own choosing, and must navigate their existence within these constraints.
 
-#### Structure of the Book:
+Existence and the nature of reality.
 
-1. **Division One: The Interpretation of Dasein in Terms of Temporality and the Explication of Time as the Transcendental Horizon of the Question of Being**
-    - This section provides an analysis of Dasein, including its everyday activities and the structures of existence.
-2. **Division Two: Dasein and Temporality**
-    - The second division delves deeper into the concept of time, examining how temporality is essential for understanding Dasein and its potential for authenticity.
-
-**Impact:**  
-- Heidegger’s "Being and Time" has had a profound influence on existentialism, phenomenology, hermeneutics, and various other philosophical disciplines. It challenges readers to reconsider their understanding of existence and the nature of reality.
-
-**Link to Full Text:**  
-- [Read "Being and Time" on Google Books](https://books.google.com/books/about/Being_and_Time.html?id=2P-Lc872b1UC)  
+[Read "Being and Time" on Google Books](https://books.google.com/books/about/Being_and_Time.html?id=2P-Lc872b1UC)  

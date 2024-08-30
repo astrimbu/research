@@ -48,4 +48,3 @@ title: Coffee
 	- may interfere with calcium absorption
 
 ### Caffeine
-

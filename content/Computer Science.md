@@ -1,8 +1,9 @@
 ---
-title: Computer science
-aliases: 
+id: Computer Science
+aliases: []
 tags:
   - 🗺️
+title: Computer Science
 ---
 
 - [[AI]]
@@ -13,4 +14,3 @@ tags:
 - [[Web development]]
 
 - [[Discrete mathematics]]
-- [[Video game]]

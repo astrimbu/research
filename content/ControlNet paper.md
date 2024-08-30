@@ -8,7 +8,7 @@ tags:
 
 https://arxiv.org/abs/2302.05543
 
-The paper "Adding Conditional Control to Text-to-Image Diffusion Models" introduces ControlNet, a neural network architecture designed to add spatial conditioning controls to large, pretrained text-to-image diffusion models.
+ControlNet, a neural network architecture designed to add spatial conditioning controls to large, pretrained text-to-image diffusion models.
 
 ### Summary:
 
@@ -27,5 +27,3 @@ The paper "Adding Conditional Control to Text-to-Image Diffusion Models" introdu
     
     - The training of ControlNets is shown to be robust with both small (<50k) and large (>1m) datasets.
     - Extensive results indicate that ControlNet can enhance the control of image diffusion models, potentially facilitating a wide range of applications.
-
-For further details, you can view the full paper [here](https://arxiv.org/abs/2302.05543).
