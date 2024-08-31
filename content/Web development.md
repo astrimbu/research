@@ -3,14 +3,13 @@ title: Web development
 aliases:
   - webdev
 ---
+Creating websites, building web apps  
+Design, layout, coding, content  
 
-Web development is great.  
-You can put stuff on the Internet.  
-Example: 🍕  
+Currently learning new [[React]] concepts by coding a [dumb game](https://alan.computer/coinflip)  
+Will add some notes re: biggest hurdles, lessons learned, etc  
 
-I'm currently learning new [[React]] concepts by coding a [Mini RPG](https://alan.computer/coinflip), and wasting time customizing my development environment ([[Neovim]] is very fun).  
 
-Things to discuss:  
 - [ ] JavaScript, JSX
 - [ ] HTML/CSS
 - [ ] Node.js - *JavaScript runtime environment* 

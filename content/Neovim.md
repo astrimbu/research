@@ -6,14 +6,6 @@ Modern, community-chosen fork of vim.
 
 kickstart.nvim works as a launch point.  
 
-### Generative AI
-- Plugin: [david/knux/gen.nvim](https://github.com/David-Kunz/gen.nvim)
-- Compatible with Ollama ✅
-- Set a hotkey, e.g.
-	- vim.keymap.set({ "n", "v" }, "\<leader\>]", ":Gen\<CR\>")
-- Edit prompts (Windows)
-	- ~\\AppData\\Local\\nvim-data\\lazy\\gen.nvim\\lua\\gen\\prompts.lua
-
 ### Autocomplete
 - nvim $home\AppData\local\nvim\init.lua
 	- :Mason

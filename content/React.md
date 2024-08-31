@@ -2,7 +2,8 @@
 title: React
 ---
 
-React is a user interface library
+React is a user interface library  
+
 
 Deploying a React project (with Vite and GitHub)  
 
