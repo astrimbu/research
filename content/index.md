@@ -1,17 +1,19 @@
 ---
 id: index
-aliases: []
-tags: []
-title: Welcome
+aliases: 
+tags: 
+title: Home
 ---
+*\<reset\>*
 
-Notebook of random notes.  
+**Focus**  
 
-Currently more focused on coding than writing, but will add some retrospective "lessons-learned" notes here soon™️.  
+XAI & LLMs  
+Data science  
+Quantum physics  
+Computer science  
 
-
-> ✍️(◔◡◔) - [[Web development]]  
-
-
-Main Areas: [[Computer Science]] - [[Language]] - [[Research]]  
-Random: [[I don't know]] - [[Emergence]]  
+> *in vector space, words entwine*  
+> *mathematical truths, a hidden design*  
+> *addition's spark, subtraction's sway*  
+> *meaning emerges, in linguistic gray*  

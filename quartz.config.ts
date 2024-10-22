@@ -8,7 +8,7 @@ import * as Plugin from "./quartz/plugins"
  */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "🪴 alan's notes",
+    pageTitle: "alan's notes",
     enableSPA: true,
     enablePopovers: true,
     analytics: {
@@ -16,7 +16,13 @@ const config: QuartzConfig = {
     },
     locale: "en-US",
     baseUrl: "astrimbu.github.io/research/",
-    ignorePatterns: ["private", "templates", ".obsidian", "Daily"],
+    ignorePatterns: [
+      "private",
+      "templates",
+      ".obsidian",
+      "Daily/",
+      "Review/",
+    ],
     defaultDateType: "created",
     theme: {
       fontOrigin: "googleFonts",
